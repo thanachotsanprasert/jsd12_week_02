@@ -1,4 +1,3 @@
-create-tables.sql
 -- 1. Create Suppliers Table
 CREATE TABLE Suppliers (
      supplier_id SERIAL PRIMARY KEY,
