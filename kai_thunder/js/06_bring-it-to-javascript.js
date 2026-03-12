@@ -33,7 +33,7 @@ const customerTable = [
   new Customer(17, "Ubon", "Lotus", "Trang", "081-778-8899", "ubon@dev.com", "pw17", "2026-03-09", "kainoi"),
   new Customer(18, "Tawan", "Sun", "Phuket", "081-889-9900", "tawan@dev.com", "pw18", "2026-03-10", "kainoi"),
   new Customer(19, "Malee", "Jasmine", "Chiang Mai", "081-990-0011", "malee@dev.com", "pw19", "2026-03-11", "kainoi"),
-  new Customer(20, "Arun", "Dawn", "Trang", "081-001-1122", "arun@dev.com", "pw20", "2026-03-12", "kainoi")
+  new Customer(20, "Arun", "Dawn", "Trang", "081-001-1122", "arun@dev.com", "pw20", "2026-03-12", "kainoi"),
   new Customer(21, "Surachai", "Ocean", "Phuket", "081-121-2121", "surachai@dev.com", "pw21", "2026-03-01", "kainoi"),
   new Customer(22, "Pimpa", "Moon", "Bangkok", "081-232-3232", "pimpa@dev.com", "pw22", "2026-03-02", "kainoi"),
   new Customer(23, "Arthit", "Solar", "Trang", "081-343-4343", "arthit@dev.com", "pw23", "2026-03-04", "kainoi"),
